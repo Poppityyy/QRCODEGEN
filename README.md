@@ -7,4 +7,5 @@ Funzionalità
 - Possibilità di aggiungere un logo personalizzato (155x155) al centro del QR Code.
 
 Prerequisiti
+
 pip install tkinter qrcode[pil] pillow ttkbootstrap
